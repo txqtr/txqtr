@@ -1,4 +1,3 @@
-MQL5_EAs/ followed by the name of your first MQL5 EA file (e.g., MQL5_EAs/MyStrategy_EA.mq5).
 input double LotSize = 0.1;  // Lot size per trade
 input int StopLossPips = 50;  // Stop-loss in pips
 input int TakeProfitPips = 100; // Take-profit in pips
